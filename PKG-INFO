@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Raspblock
+Version: 0.0.1
+Summary: Raspblock底层驱动库V0.0.1
+Home-page: www.yahboom.com
+Author: liusen 
+Author-email: 398310535@qq.com
+License: UNKNOWN
+Description: Driver Board Library
+Platform: Raspberry Pi 4B
