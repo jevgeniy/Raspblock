@@ -1,4 +1,4 @@
-#从Python发布工具导入"setup"函数
+# Import the "setup" function from the Python publishing tool
 from distutils.core import setup
  
 setup(
@@ -8,5 +8,5 @@ setup(
     author='liusen ',
     author_email='398310535@qq.com',
     url='www.yahboom.com',
-    description='Raspblock底层驱动库V0.0.1'
+    description='Raspblock Low-level driver library v0.0.1'
 )
